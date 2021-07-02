@@ -1,9 +1,11 @@
+
+
 let currentUser
 
 
 document.addEventListener("DOMContentLoaded", () => {
   Api.fetchBooks()
-  getCurrentUser(1)
+  getCurrentUser(5)
 });
 
 const getCurrentUser = (id) => {

@@ -9,20 +9,31 @@
       "img_url": "https://books.google.com/books/content?id=3S8Rwr-iBdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 2,
-          "username": "auer"
+          "id": 1,
+          "username": "pouros",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying",
+            "Marriage of a Thousand Lies",
+            "An American Marriage",
+            "Grapefruit"
+          ]
+        },
+        {
+          "id": 3,
+          "username": "marvin",
+          "likedBooks": [
+            "Grapefruit"
+          ]
         },
         {
           "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 5,
-          "username": "feels-like-summer"
-        },
-        {
-          "id": 1,
-          "username": "pouros"
+          "username": "maverick",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying",
+            "The Autobiography of Malcolm X",
+            "Behold the Dreamers",
+            "Grapefruit"
+          ]
         }
       ]
     },
@@ -35,16 +46,18 @@
       "img_url": "https://books.google.com/books/content?id=GdmEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
-          "username": "macejkovic"
+          "id": 7,
+          "username": "summerqueen98",
+          "likedBooks": [
+            "Invisible Women"
+          ]
         },
         {
-          "id": 4,
-          "username": "ann"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
+          "id": 5,
+          "username": "feels-like-summer",
+          "likedBooks": [
+            "Invisible Women"
+          ]
         }
       ]
     },
@@ -57,37 +70,72 @@
       "img_url": "https://books.google.com/books/content?id=nHlbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "maverick"
+          "id": 1,
+          "username": "pouros",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying"
+          ]
         },
         {
-          "id": 9,
-          "username": "alex"
+          "id": 4,
+          "username": "ann",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying"
+          ]
         },
         {
           "id": 5,
-          "username": "feels-like-summer"
+          "username": "feels-like-summer",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying"
+          ]
+        },
+        {
+          "id": 8,
+          "username": "maverick",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying",
+            "The Autobiography of Malcolm X",
+            "Behold the Dreamers",
+            "Grapefruit",
+            "Behold the Dreamers",
+            "I'm Telling the Truth, But I'm Lying"
+          ]
         }
       ]
     },
     {
       "id": 4,
       "title": "Angela Davis",
+      "subtitle": "",
       "description": "Her own powerful story up to 1972, told with warmth, brilliance, humor and conviction. With an introduction by the author.",
       "author": "Angela Y. Davis ",
       "img_url": "http://books.google.com/books/content?id=S3yODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
-          "username": "macejkovic"
+          "id": 2,
+          "username": "auer",
+          "likedBooks": [
+            "Angela Davis"
+          ]
         },
         {
-          "id": 8,
-          "username": "maverick"
+          "id": 5,
+          "username": "feels-like-summer",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying",
+            "The Collected Schizophrenias",
+            "The Autobiography of Malcolm X",
+            "Invisible Women",
+            "Angela Davis"
+          ]
         },
         {
           "id": 1,
-          "username": "pouros"
+          "username": "pouros",
+          "likedBooks": [
+            "Angela Davis"
+          ]
         }
       ]
     },
@@ -100,20 +148,33 @@
       "img_url": "https://books.google.com/books/content?id=hxGuDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
-          "username": "macejkovic"
+          "id": 3,
+          "username": "marvin",
+          "likedBooks": [
+            "Grapefruit",
+            "Beyond the Gender Binary"
+          ]
         },
         {
-          "id": 4,
-          "username": "ann"
+          "id": 7,
+          "username": "summerqueen98",
+          "likedBooks": [
+            "Invisible Women",
+            "The Collected Schizophrenias",
+            "Beyond the Gender Binary"
+          ]
         },
         {
           "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 1,
-          "username": "pouros"
+          "username": "maverick",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying",
+            "The Autobiography of Malcolm X",
+            "Behold the Dreamers",
+            "Grapefruit",
+            "Behold the Dreamers",
+            "Beyond the Gender Binary"
+          ]
         }
       ]
     },
@@ -126,16 +187,32 @@
       "img_url": "https://books.google.com/books/content?id=54vbDgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 7,
-          "username": "steuber"
-        },
-        {
-          "id": 4,
-          "username": "ann"
-        },
-        {
           "id": 1,
-          "username": "pouros"
+          "username": "pouros",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying",
+            "Marriage of a Thousand Lies"
+          ]
+        },
+        {
+          "id": 2,
+          "username": "auer",
+          "likedBooks": [
+            "Angela Davis",
+            "An American Marriage",
+            "Marriage of a Thousand Lies"
+          ]
+        },
+        {
+          "id": 8,
+          "username": "maverick",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying",
+            "The Autobiography of Malcolm X",
+            "Behold the Dreamers",
+            "Grapefruit",
+            "Marriage of a Thousand Lies"
+          ]
         }
       ]
     },
@@ -148,16 +225,19 @@
       "img_url": "http://books.google.com/books/content?id=FLFoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 3,
-          "username": "marvin"
+          "id": 7,
+          "username": "summerqueen98",
+          "likedBooks": [
+            "Invisible Women",
+            "The Collected Schizophrenias"
+          ]
         },
         {
           "id": 5,
-          "username": "feels-like-summer"
-        },
-        {
-          "id": 1,
-          "username": "pouros"
+          "username": "feels-like-summer",
+          "likedBooks": [
+            "The Collected Schizophrenias"
+          ]
         }
       ]
     },
@@ -170,16 +250,38 @@
       "img_url": "http://books.google.com/books/content?id=EtVfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 9,
-          "username": "alex"
-        },
-        {
           "id": 3,
-          "username": "marvin"
+          "username": "marvin",
+          "likedBooks": [
+            "Grapefruit",
+            "Beyond the Gender Binary",
+            "The Autobiography of Malcolm X"
+          ]
         },
         {
-          "id": 2,
-          "username": "auer"
+          "id": 5,
+          "username": "feels-like-summer",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying",
+            "The Collected Schizophrenias",
+            "The Autobiography of Malcolm X"
+          ]
+        },
+        {
+          "id": 8,
+          "username": "maverick",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying",
+            "The Autobiography of Malcolm X"
+          ]
+        },
+        {
+          "id": 4,
+          "username": "ann",
+          "likedBooks": [
+            "Behold the Dreamers",
+            "The Autobiography of Malcolm X"
+          ]
         }
       ]
     },
@@ -192,20 +294,23 @@
       "img_url": "http://books.google.com/books/content?id=8thMLkahggcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
-        },
-        {
           "id": 5,
-          "username": "feels-like-summer"
+          "username": "feels-like-summer",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying",
+            "The Collected Schizophrenias",
+            "The Autobiography of Malcolm X",
+            "Invisible Women",
+            "Angela Davis",
+            "Parable of the Sower"
+          ]
         },
         {
-          "id": 1,
-          "username": "pouros"
+          "id": 4,
+          "username": "ann",
+          "likedBooks": [
+            "Parable of the Sower"
+          ]
         }
       ]
     },
@@ -218,16 +323,27 @@
       "img_url": "http://books.google.com/books/content?id=fc8PDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 10,
-          "username": "macejkovic"
+          "id": 2,
+          "username": "auer",
+          "likedBooks": [
+            "Angela Davis",
+            "An American Marriage"
+          ]
         },
         {
           "id": 1,
-          "username": "pouros"
+          "username": "pouros",
+          "likedBooks": [
+            "An American Marriage"
+          ]
+        },
+        {
+          "id": 5,
+          "username": "feels-like-summer",
+          "likedBooks": [
+            "The Collected Schizophrenias",
+            "An American Marriage"
+          ]
         }
       ]
     },
@@ -241,15 +357,21 @@
       "users": [
         {
           "id": 8,
-          "username": "maverick"
+          "username": "maverick",
+          "likedBooks": [
+            "I'm Telling the Truth, But I'm Lying",
+            "The Autobiography of Malcolm X",
+            "Behold the Dreamers",
+            "Grapefruit",
+            "Behold the Dreamers"
+          ]
         },
         {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 1,
-          "username": "pouros"
+          "id": 4,
+          "username": "ann",
+          "likedBooks": [
+            "Behold the Dreamers"
+          ]
         }
       ]
     }
@@ -257,43 +379,80 @@
   "users": [
     {
       "id": 1,
-      "username": "pouros"
+      "username": "pouros",
+      "likedBooks": [
+        "An American Marriage"
+      ]
     },
     {
       "id": 2,
-      "username": "auer"
+      "username": "auer",
+      "likedBooks": [
+        "Angela Davis",
+        "An American Marriage",
+        "Marriage of a Thousand Lies"
+      ]
     },
     {
       "id": 3,
-      "username": "marvin"
+      "username": "marvin",
+      "likedBooks": [
+        "Grapefruit",
+        "Beyond the Gender Binary",
+        "The Autobiography of Malcolm X"
+      ]
     },
     {
       "id": 4,
-      "username": "ann"
+      "username": "ann",
+      "likedBooks": [
+        "Behold the Dreamers",
+        "The Autobiography of Malcolm X"
+      ]
     },
     {
       "id": 5,
-      "username": "feels-like-summer"
+      "username": "feels-like-summer",
+      "likedBooks": [
+        "The Collected Schizophrenias",
+        "An American Marriage"
+      ]
     },
     {
       "id": 6,
-      "username": "steuber"
+      "username": "steuber",
+      "likedBooks": []
     },
     {
       "id": 7,
-      "username": "summerqueen98"
+      "username": "summerqueen98",
+      "likedBooks": [
+        "Invisible Women",
+        "The Collected Schizophrenias",
+        "Beyond the Gender Binary"
+      ]
     },
     {
       "id": 8,
-      "username": "maverick"
+      "username": "maverick",
+      "likedBooks": [
+        "I'm Telling the Truth, But I'm Lying",
+        "The Autobiography of Malcolm X",
+        "Behold the Dreamers",
+        "Grapefruit",
+        "Behold the Dreamers",
+        "I'm Telling the Truth, But I'm Lying"
+      ]
     },
     {
       "id": 9,
-      "username": "alex"
+      "username": "alex",
+      "likedBooks": []
     },
     {
       "id": 10,
-      "username": "macejkovic"
+      "username": "macejkovic",
+      "likedBooks": []
     }
   ]
 }
